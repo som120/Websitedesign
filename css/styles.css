@@ -1,0 +1,45 @@
+.web1{
+  width: 600px;
+  height: 400px;
+}
+.web2{
+  width: 600px;
+  height: 400px;
+}
+.web3{
+  width: 300px;
+  height: 1000px;
+}
+.web4{
+  width: 500px;
+  height: 900px;
+}
+.web5{
+  width: 500px;
+  height: 900px;
+}
+.web6{
+  width: 400px;
+  height: 900px;
+}
+.web7{
+  width: 400px;
+  height: 900px;
+}.web8{
+  width: 550px;
+  height: 500px;
+}
+.goback{
+  text-decoration: none;
+  border: 1px solid #222222;
+  background-color: #FFFFFF;
+  border-radius: 10px;
+  color: Black;
+  padding: 8px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.goback:hover{
+  background-color: #222222;
+  color: #FFFFFF;
+}
